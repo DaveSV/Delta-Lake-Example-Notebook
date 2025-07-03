@@ -15,3 +15,5 @@ Delta Lake stores data in the open-source Apache Parquet file format but enhance
 * Time travel example
 
 You can open it in Jupyter or import it into Databricks and run it directly.
+
+![image](https://github.com/user-attachments/assets/6c88292a-9354-462d-a97e-486e239af7e3)
